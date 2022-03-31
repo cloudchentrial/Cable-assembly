@@ -1,2 +1,12 @@
 # Cable-Assembly
-Note to cable assembly the product of LEMO SMPTE304
+Showcase and steps of cable assembly to the product of LEMO SMPTE304.
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
