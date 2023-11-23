@@ -1,8 +1,11 @@
 # Cable-Assembly
 Showcase and cable assembly step to the product of LEMO SMPTE304 compliant.<br>
 Resources from Youtube. <br>
+001_Stripping  
 ![001_Stripping](https://github.com/cloudchentrial/Cable-assembly/assets/31240078/7a446743-3a84-4dc5-b0cb-c59c64492c87)  
+002_Stripping  
 ![002_Stripping](https://github.com/cloudchentrial/Cable-assembly/assets/31240078/4fa78323-b564-4986-8a09-d349c822b8ef)  
+003_Removing_filler  
 ![003_Removing_filler](https://github.com/cloudchentrial/Cable-assembly/assets/31240078/a719c13b-0ed7-4bb1-ba0c-d1df34474bbf)  
 ![004_Removing_filler_2](https://github.com/cloudchentrial/Cable-assembly/assets/31240078/db0c2793-6114-497e-aa82-2e0a0d790c49)  
 ![005_Removing_filler_3](https://github.com/cloudchentrial/Cable-assembly/assets/31240078/acbb07e5-0b75-48f4-a97b-b45924256bdb)  
